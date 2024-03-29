@@ -18,8 +18,6 @@
 * Data Cleaning: Cleanse the data to remove duplicates, handle missing values, and ensure consistency.
 
 * Data Integration: Integrate data from multiple sources if necessary for a comprehensive analysis.
-  
-* Data Exploration
 
 * Data Exploration & Descriptive Statistics: Compute basic statistics such as mean, median, and standard deviation to understand the distribution of key variables.
 Exploratory Data Analysis (EDA): Visualize the data using histograms, scatter plots, box plots, etc., to identify patterns, outliers, and relationships between variables.
