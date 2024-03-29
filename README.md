@@ -1,6 +1,6 @@
 # Guvi_CAPSTONE_Project_Phonepe-Pulse-Data-Visualization-and-Exploration:
 
-The aim of this project is to develop a solution that extracts, transforms, and visualizes data from the Phonepe Pulse GitHub repository. The process involves:
+* The aim of this project is to develop a solution that extracts, transforms, and visualizes data from the Phonepe Pulse GitHub repository. The process involves:
 
 
 "Project_Phonepe-Pulse-Data-Visualization-and-Exploration" sounds like an intriguing project focused on exploring and visualizing data related to PhonePe, the digital payment platform in India. Here's a potential outline or approach for such a project:
