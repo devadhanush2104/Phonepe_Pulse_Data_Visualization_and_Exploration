@@ -17,6 +17,8 @@ Using Streamlit and Plotly to build an interactive dashboard.
 5. Data Retrieval:
 Fetching data from the database to dynamically update the dashboard.
 
+NAME:DEVANATHAN RAJA
+
 www.linkedin.com/in/
 devanathan-raja-5b03582ab
 
