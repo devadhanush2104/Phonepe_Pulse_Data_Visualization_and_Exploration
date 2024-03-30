@@ -853,7 +853,8 @@ elif select == "DATA EXPLORATION":
 
             col1,col2= st.columns(2)
             with col1:
-                states= st.selectbox("Select The State", map_insur_tac_Y["States"].unique())
+                states = st.selectbox("Select The State", map_insur_tac_Y["States"].unique(), key="unique_key_for_state_selectbox")
+
 
             Map_insur_District(map_insur_tac_Y, states)
 
